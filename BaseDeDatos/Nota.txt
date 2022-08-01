@@ -1,0 +1,6 @@
+1)Para el funcionamiento del sistema, agrege a las librerias de java(add JAR/FOLDER)
+
+
+mysql-connector-java 
+
+2)Posteriormente cree la base de datos
